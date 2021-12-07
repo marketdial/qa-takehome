@@ -17,14 +17,18 @@ The script should:
 ### Part 2
 Once navigated to the MarketDial home page the script should:
  1. Wait for the page to successfully load
- 2. Assert that the text "Applicable for Any Retail Function" is displayed where expected /marketdial-homepage.png
+ 2. Assert that the text "Applicable for Any Retail Function" is displayed where expected
+
+/marketdial-homepage.png
 
  Bonus: Add any number of optional assertions
 
 ### Part 3
 From the MarketDial home page
  1. Using the dropdown navigate to `About Us > Events`
- 2. Assert that the text circled in the image matches "Using MarketDial, You Can". This assertion will fail because the text does not match /events.png
+ 2. Assert that the text circled in the image matches "Using MarketDial, You Can". This assertion will fail because the text does not match
+
+/events.png
  
  Bonus: Add any number of optional assertions
 
