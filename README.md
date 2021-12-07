@@ -32,6 +32,7 @@ From the MarketDial home page
 Create a `README.md` that at the minimum explains: 
 - How to install the requirements for the project
 - How to run the project
+- How to interpret the results
 
 ## How to submit your code
 You can submit zip files via email or you could upload the solution to your personal GitHub and share the link with us
