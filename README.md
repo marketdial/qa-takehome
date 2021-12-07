@@ -19,7 +19,7 @@ Once navigated to the MarketDial home page the script should:
  1. Wait for the page to successfully load
  2. Assert that the text "Applicable for Any Retail Function" is displayed where expected
 
-![Screenshot](/marketdial/qa-takehome/blob/initial/marketdial-homepage.png)
+![Screenshot](marketdial-homepage.png)
 
  Bonus: Add any number of optional assertions
 
@@ -28,7 +28,7 @@ From the MarketDial home page
  1. Using the dropdown navigate to `About Us > Events`
  2. Assert that the text circled in the image matches "Using MarketDial, You Can". This assertion will fail because the text does not match
 
-![Screenshot](/marketdial/qa-takehome/blob/initial/events.png)
+![Screenshot](events.png)
  
  Bonus: Add any number of optional assertions
 
